@@ -6,3 +6,5 @@
 判断文件是否收敛并且重新提交，重点关注bash循环+判断的写法
 ### submit_JI.slurm
 JI cluster 提交任务脚本
+### e_above_hull.py
+计算当前目录下Energy above convex Hull脚本
